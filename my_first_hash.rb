@@ -2,7 +2,6 @@ def my_hash
 hash = {"corset" => "whale bone","vases" => "porcelain", "paintings" => "oil"}
 end
 
-
 def shipping_manifest
   the_manifest = {
                   "whale bone corsets" => 5,
